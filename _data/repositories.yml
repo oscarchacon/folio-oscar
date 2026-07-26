@@ -1,14 +1,35 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - oscarchacon
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - oscarchacon/folio-oscar
+  - oscarchacon/al-folio
+  - oscarchacon/BackendWebApiCRUDColumnsOrder
+  - oscarchacon/AngularCRUDColumnsOrder
+  - oscarchacon/fullstack-test-evol
+  - oscarchacon/Pokemon-React-App
+  - oscarchacon/FrontendCoop
+  - oscarchacon/BackendCoop
+  - oscarchacon/AngularAsimovTest
+  - oscarchacon/AsimovTest
+  - oscarchacon/akaunting
+  - oscarchacon/CheckJWTAzureFunction
+  - oscarchacon/vue-example
+  - oscarchacon/ReactExample
+  - oscarchacon/AngularAuth0App
+  - oscarchacon/BackendJWTCore
+  - oscarchacon/aspnet-core-jwt-authentication-api
+  - oscarchacon/AngularJSAuth0App
+  - oscarchacon/WebAPI-Segura-JWT
+  - oscarchacon/AppLinqSenegocia
+  - oscarchacon/AppWebApiSenegocia
+  - oscarchacon/app_senegocia
+  - oscarchacon/web-service-app
+  - oscarchacon/vocabularioLinea
+  - oscarchacon/GuardarObjetoClase
+  - oscarchacon/documentoVocLinea
+  - oscarchacon/documentosAgrupados
+  - oscarchacon/CrearArchVocDoc
+  - oscarchacon/CalcularTamanoDocs
